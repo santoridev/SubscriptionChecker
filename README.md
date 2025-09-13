@@ -14,7 +14,7 @@ REST API на Go (с использованием [Gin](https://github.com/gin-g
 - [Go](https://go.dev/)
 - [Gin](https://github.com/gin-gonic/gin) — HTTP-фреймворк
 - [Swaggo](https://github.com/swaggo/gin-swagger) — Swagger UI
-- [GORM](https://gorm.io/) (предположительно в `initializers.ConnectToDB`) — ORM для работы с БД
+- [GORM](https://gorm.io/) — ORM для работы с БД
 - [godotenv](https://github.com/joho/godotenv) — загрузка переменных окружения
 
 ## 📂 Структура проекта
